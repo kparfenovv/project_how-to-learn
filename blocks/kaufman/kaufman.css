@@ -1,0 +1,12 @@
+@import url(./__triangle/kaufman__triangle.css); /* Импорт стилей для элемента с классом "kaufman__triangle" */
+
+.kaufman {
+  position: relative; /* Относительное позиционирование элемента */
+  overflow: hidden; /* Скрытие содержимого, которое выходит за пределы элемента */
+  display: flex; /* Установка элементов в строку */
+  flex-direction: column; /* Отображение элементов в столбце */
+  align-items: center; /* Выравнивание элементов по центру по горизонтали */
+  padding: 90px 0; /* Внутренний отступ сверху и снизу для блока "kaufman": 90 пикселей */
+  background-color: #1f1f1f; /* Цвет фона блока "kaufman": #1f1f1f (темно-серый) */
+}
+

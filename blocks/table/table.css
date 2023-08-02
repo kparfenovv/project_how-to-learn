@@ -1,0 +1,28 @@
+/* Импорт стилей для ячеек таблицы (.table__cell) */
+@import url(./__cell/table__cell.css);
+
+/* Импорт стилей для ячеек таблицы в темной теме (.table__cell_theme_dark) */
+@import url(./__cell/_theme/table__cell_theme_dark.css);
+
+/* Импорт стилей для заголовков таблицы (.table__heading) */
+@import url(./__heading/table__heading.css);
+
+/* Импорт стилей для заголовков таблицы в темной теме (.table__heading_theme_dark) */
+@import url(./__heading/_theme/table__heading_theme_dark.css);
+
+/* Импорт стилей для текстовых элементов таблицы (.table__text) */
+@import url(./__text/table__text.css);
+
+/* Импорт стилей для текстовых элементов таблицы в темной теме (.table__text_theme_dark) */
+@import url(./__text/_theme/table__text_theme_dark.css);
+
+/* Стили для контейнера таблицы (.table) */
+.table {
+  width: 1100px; /* Установка ширины контейнера таблицы на 1100 пикселей */
+  display: flex; /* Отображение содержимого контейнера таблицы в виде flex-контейнера */
+  flex-wrap: wrap; /* Разрешение переноса элементов на новую строку, если контейнер не может вместить все элементы в одну строку */
+  justify-content: space-between; /* Распределение элементов внутри контейнера таблицы с равными промежутками между ними */
+  margin: 0 auto; /* Автоматическое выравнивание по центру по горизонтали */
+  padding-left: 0; /* Отмена стандартного отступа слева для контейнера таблицы */
+  --text-theme-color: white; /* Установка пользовательской переменной для цвета текста в темной теме */
+}

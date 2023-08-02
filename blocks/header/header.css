@@ -1,0 +1,19 @@
+/* Подключение внешних CSS файлов с описанием стилей для различных элементов в шапке сайта */
+@import url(./__title/header__title.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__link/header__link.css);
+@import url(./__main-illustration/header__main-illustration.css);
+@import url(./__square-pic/header__square-pic.css);
+
+/* Стили для секции шапки сайта (.header) */
+.header {
+  height: 100vh; /* Установка высоты секции на 100% высоты окна браузера */
+  min-height: 600px; /* Минимальная высота секции в 600 пикселей */
+  max-height: 756px; /* Максимальная высота секции в 756 пикселей */
+  /* Выше установлены ограничения для секции, чтобы контент не выходил за пределы секции */
+  display: flex; /* Отображение содержимого секции в виде flex-контейнера */
+  align-items: center; /* Выравнивание элементов по вертикали в центре секции */
+  position: relative; /* Установка позиции элемента как относительной для дочерних элементов */
+  background-color: #f2f2f2; /* Цвет фона секции */
+  overflow: hidden; /* Скрытие содержимого, выходящего за пределы секции */
+}

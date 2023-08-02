@@ -1,0 +1,13 @@
+/* Импорт стилей resources__logo-zone */
+@import url(./__logo-zone/resources__logo-zone.css);
+
+/* Импорт стилей resources__logo */
+@import url(./__logo/resources__logo.css);
+
+.resources {
+  padding: 100px 0 217px 0; /* Внутренний отступ сверху 100 пикселей, снизу 217 пикселей, а по бокам - 0 */
+  display: flex; /* Установка элементов в строку */
+  flex-direction: column; /* Отображение элементов в столбце */
+  align-items: center; /* Выравнивание элементов по центру по горизонтали */
+}
+

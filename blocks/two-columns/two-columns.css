@@ -1,0 +1,13 @@
+/* Подключение внешних CSS файлов с описанием стилей для различных элементов в статье */
+@import url(./__brief/two-columns__brief.css);
+@import url(./__main-text/two-columns__main-text.css);
+@import url(./__paragraph/two-columns__paragraph.css);
+@import url(./__span-accent/two-columns__span-accent.css);
+
+/* Стили для статьи с двумя колонками (.two-columns) */
+.two-columns {
+  width: 80%; /* Установка ширины статьи на 80% от ширины его родительского контейнера */
+  display: flex; /* Отображение содержимого статьи в виде flex-контейнера */
+  justify-content: space-between; /* Распределение элементов статьи по краям контейнера с равным пространством между ними */
+}
+

@@ -1,0 +1,5 @@
+/* Стили для заголовков таблицы в темной теме (.table__heading_theme_dark) */
+.table__heading_theme_dark {
+  color: var(--text-theme-color); /* Установка цвета текста для заголовков таблицы в соответствии с пользовательской переменной --text-theme-color */
+}
+

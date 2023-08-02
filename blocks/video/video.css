@@ -1,0 +1,13 @@
+/* Импорт стилей для блока видео-фреймов (.video__iframes) */
+@import url(./video__iframes/video__iframes.css);
+
+/* Импорт стилей для видео-фреймов (.video__iframe)  */
+@import url(./video__iframe/video__iframe.css);
+
+/* Стили для блока видео (.video) */
+.video {
+  padding-top: 100px; /* Внешний отступ сверху для блока видео: 100 пикселей */
+  display: flex; /* Установка элементов в строку */
+  flex-direction: column; /* Отображение элементов в столбце */
+  align-items: center; /* Выравнивание элементов по центру по горизонтали */
+}
