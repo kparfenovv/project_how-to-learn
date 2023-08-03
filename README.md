@@ -37,6 +37,7 @@
 ## Чеклисты
 
 [Чеклист №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
+
 [Чеклист №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
 
 
@@ -83,9 +84,11 @@ There are plans for further improving the project:
 ## Briefs
 
 [Brief №1](https://drive.google.com/file/d/1WrYFMlQVbcalI_9DwHt8NpMlM0xUYbhh/view?usp=sharing)
+
 [Brief №2](https://drive.google.com/file/d/1GbEGNM5seoTMBRoLtE8lUZzf9ktyQeHf/view?usp=sharing)
 
 ## Checklists
 
 [Checklist №1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html)
+
 [Checklist №2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html)
