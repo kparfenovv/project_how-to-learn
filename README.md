@@ -31,6 +31,7 @@
 ## Брифы
 
 [Бриф №1](https://drive.google.com/file/d/1WrYFMlQVbcalI_9DwHt8NpMlM0xUYbhh/view?usp=sharing)
+
 [Бриф №2](https://drive.google.com/file/d/1GbEGNM5seoTMBRoLtE8lUZzf9ktyQeHf/view?usp=sharing)
 
 ## Чеклисты
